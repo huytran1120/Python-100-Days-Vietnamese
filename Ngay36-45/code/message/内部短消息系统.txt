@@ -1,0 +1,21 @@
+Hệ thống tin nhắn nội bộ (Hệ thống tin nhắn riêng)
+
+1 Đăng nhập
+	1.1 Gửi tin nhắn
+	1.2 Xem tin nhắn chưa đọc
+		1.2.1 Đọc tin nhắn
+		1.2.2 Đánh dấu đã đọc
+		1.2.3 Quay lại menu trước
+	1.3 Xem tất cả tin nhắn
+		1.3.1 Đọc tin nhắn
+		1.3.2 Xóa tin nhắn
+		1.3.3 Quay lại menu trước
+	1.4 Xóa toàn bộ tin nhắn
+	1.5 Đăng xuất
+2 Đăng ký
+	2.1 Điền thông tin đăng ký
+	2.2 Quay lại menu trước
+3 Thoát
+
+Người dùng (Tên người dùng, Mật khẩu, Thời gian đăng nhập lần cuối)
+Tin nhắn (Mã số, Người gửi, Người nhận, Tiêu đề, Nội dung, Thời gian gửi, Đã đọc hay chưa, Đã xóa)
